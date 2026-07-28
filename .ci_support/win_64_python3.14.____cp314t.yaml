@@ -12,6 +12,8 @@ freetype:
 - '2'
 is_freethreading:
 - true
+libraqm_devel:
+- '0.11'
 numpy:
 - '2'
 pin_run_as_build:
