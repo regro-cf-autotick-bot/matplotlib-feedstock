@@ -79,7 +79,7 @@ outputs:
         - matplotlib._tri
         - matplotlib.backends._backend_agg
         - matplotlib.ft2font
-        - matplotlib.backends._tkagg  # [not win]
+        - matplotlib.backends._tkagg  # [not win and not ppc64le]
         - mpl_toolkits
         - pylab
 
